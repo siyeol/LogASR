@@ -29,3 +29,5 @@ models/
 *.png
 *.jpg
 *.jpeg
+*.md
+!README.md

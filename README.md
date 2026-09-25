@@ -1,7 +1,6 @@
-# LogASR
-## Logarithmic Activation Quantization and Silence Frame Packaging for 4-Bit Automatic Speech
+# LogASR: Logarithmic Activation Quantization and Silence Frame Packaging for 4-Bit Automatic Speech Recognition
 
-This repository contains the source code for the Compressing Bits and Sequence project, prepared for ICASSP 2027.
+This repository contains the source code for the LogASR project, prepared for ICASSP 2027.
 
 ## Repository Structure
 - `src/`: Python source code for data processing, quantization, and evaluation.

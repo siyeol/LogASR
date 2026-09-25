@@ -1,4 +1,5 @@
-# Compressing Bits and Sequence
+# LogASR
+## Logarithmic Activation Quantization and Silence Frame Packaging for 4-Bit Automatic Speech
 
 This repository contains the source code for the Compressing Bits and Sequence project, prepared for ICASSP 2027.
 

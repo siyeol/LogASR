@@ -1,4 +1,4 @@
-# Log_ASR
+# Log-ASR
 
 Reference implementation of **Log-ASR: Logarithmic Activation Quantization and
 Silence Frame Packaging for 4-Bit Automatic Speech Recognition** for:
